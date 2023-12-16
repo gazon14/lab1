@@ -11,15 +11,18 @@ CSameGameApp:
 Основний клас-обгортка для всього додатку.
 Наслідується від базового класу CWinApp.
 Містить функцію main().
+<br/>
 CSameGameDoc:
 
 Клас, в якому зберігаються всі дані додатку.
 Наслідується від базового класу CDocument.
+<br/>
 CMainFrame:
 
 Клас-обгортка для вікна додатку.
 Наслідується від базового класу CFrameWnd.
 Містить меню та представлення клиєнтської області.
+<br/>
 CSameGameView:
 
 Базовий клас, який представляє собою розкривний список з набором загальнодоступних представлень.
@@ -36,7 +39,7 @@ CSameGameView:
 Використані джерела
 
 chatGpt <br/>
-https://chat.openai.com \n
-youtube.com \n
-google \n
-https://stackoverflow.com/ \n
+https://chat.openai.com <br/>
+youtube.com <br/>
+google <br/>
+https://stackoverflow.com/ <br/>
