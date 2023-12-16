@@ -30,3 +30,12 @@ CSameGameView:
 
 
 Окрмі них в коді існують загалом 15 класів
+
+
+Використані джерела
+
+chatGpt
+https://chat.openai.com
+youtube.com
+google
+https://stackoverflow.com/
