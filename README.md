@@ -35,7 +35,7 @@ CSameGameView:
 
 Використані джерела
 
-chatGpt \n
+chatGpt <br/>
 https://chat.openai.com \n
 youtube.com \n
 google \n
